@@ -1,0 +1,16 @@
+$font-size: 24px;
+
+.btn {
+  background-color: black;
+  color: white;
+  padding: 1rem;
+  border-radius: 100em;
+  font-size: $font-size;
+  font-family: "Work Sans";
+  .btn-primary {
+    background-color: red;
+  }
+  .btn-secondary {
+    background-color: blue;
+  }
+}

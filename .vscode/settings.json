@@ -1,0 +1,16 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "html-css-class-completion.includeGlobPattern": "**/*.{css,scss,sass,html,jsx,tsx}",
+  "html-css-class-completion.remoteStyleSheets": [
+    // Load remote stylesheets to be used for class autocompletion
+    // eg. "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
+  ]
+}
